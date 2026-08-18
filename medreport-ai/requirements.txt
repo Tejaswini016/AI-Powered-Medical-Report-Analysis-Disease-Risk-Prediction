@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+streamlit
+joblib
+jupyter
+pdfplumber
+PyPDF2
+pytesseract
+opencv-python
+Pillow
+regex

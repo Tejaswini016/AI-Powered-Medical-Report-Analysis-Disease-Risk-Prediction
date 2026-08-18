@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (usually kept out of git unless small)
+data/diabetes/*.csv
+data/heart_disease/*.csv
+data/kidney_disease/*.csv
+data/sample_reports/*
+!data/sample_reports/.gitkeep
+models/*.pkl
+
+# OS
+.DS_Store
